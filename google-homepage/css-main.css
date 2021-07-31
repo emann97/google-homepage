@@ -1,0 +1,19 @@
+.text{
+    font-size: 13;
+    font-family: arial, sans-serif;
+    color: rgb(54, 54, 54);
+    display:inline-block;
+    line-height: 24px;
+    outline: none;
+    vertical-align: middle;
+    
+}
+#microphone{
+    position: absolute;
+    top: 242;
+    left: 585;
+}
+.table{
+    position: absolute;
+    top: 400;
+}
